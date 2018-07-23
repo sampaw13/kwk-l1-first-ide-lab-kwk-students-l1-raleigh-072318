@@ -1,1 +1,2 @@
-puts "Hi Queen Elizabeth the Second"
+puts "Hi Queen Elizabeth II"
+input = gets 
